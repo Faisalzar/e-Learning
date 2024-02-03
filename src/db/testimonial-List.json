@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "img": "img-1",
+        "fullName": "Faisal Zariwala",
+        "jobTitle": "Senior Developer",
+        "twitterHandle": "@faisalz",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit sequi reiciendis nulla tempore, blanditiis nostrum voluptatem accusamus praesentium aut eveniet doloremque qui reprehenderit? Dignissimos, impedit?"
+    },
+    {
+        "id": "2",
+        "img": "img-2",
+        "fullName": "Tony Stark",
+        "jobTitle": "Front-end Developer",
+        "twitterHandle": "@tonystark",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit sequi reiciendis nulla tempore, blanditiis nostrum voluptatem accusamus praesentium aut eveniet doloremque qui reprehenderit? Dignissimos, impedit?"
+    },
+    {
+        "id": "3",
+        "img": "img-3",
+        "fullName": "Alexandra",
+        "jobTitle": "Back-end Developer",
+        "twitterHandle": "@alexandra",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit sequi reiciendis nulla tempore, blanditiis nostrum voluptatem accusamus praesentium aut eveniet doloremque qui reprehenderit? Dignissimos, impedit?"
+    },
+    {
+        "id": "4",
+        "img": "img-4",
+        "fullName": "May",
+        "jobTitle": "Full-Stack Web Developer",
+        "twitterHandle": "@may",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit sequi reiciendis nulla tempore, blanditiis nostrum voluptatem accusamus praesentium aut eveniet doloremque qui reprehenderit? Dignissimos, impedit?"
+    }
+]
