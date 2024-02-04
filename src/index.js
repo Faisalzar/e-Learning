@@ -23,6 +23,7 @@ import Register from "./routes/Register";
 
 const router = createBrowserRouter([
   {
+    basename: "",
     path: "/",
     element: <Root />,
     children: [
