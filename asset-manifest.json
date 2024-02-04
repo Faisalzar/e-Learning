@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/e-Learning/static/css/main.4c223071.css",
+    "main.js": "/e-Learning/static/js/main.097e2e87.js",
+    "static/media/testimonial-3.jpg": "/e-Learning/static/media/testimonial-3.896acfcedf18e1e0d8c8.jpg",
+    "static/media/testimonial-2.jpg": "/e-Learning/static/media/testimonial-2.f06fca54c21ce8c6696a.jpg",
+    "static/media/header-img.png": "/e-Learning/static/media/header-img.699c921decf9f6ef8aa9.png",
+    "static/media/testimonial-1.jpg": "/e-Learning/static/media/testimonial-1.09ef508aac0068f37156.jpg",
+    "static/media/testimonial-4.jpg": "/e-Learning/static/media/testimonial-4.bc1db38bede001b2115a.jpg",
+    "index.html": "/e-Learning/index.html",
+    "main.4c223071.css.map": "/e-Learning/static/css/main.4c223071.css.map",
+    "main.097e2e87.js.map": "/e-Learning/static/js/main.097e2e87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c223071.css",
+    "static/js/main.097e2e87.js"
+  ]
+}
